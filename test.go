@@ -3,5 +3,5 @@ package test
 import "fmt"
 
 func Test() {
-	fmt.Println("test 1.0")
+	fmt.Println("test 2.0")
 }
